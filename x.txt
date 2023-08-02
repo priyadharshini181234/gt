@@ -1,2 +1,7 @@
 this is file two
+<<<<<<< HEAD
 thhis file two
+=======
+file two created in side git hub
+jhfh
+>>>>>>> s1
